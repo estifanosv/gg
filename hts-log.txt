@@ -1,0 +1,48 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Sep 2018 08:21:11 at http://localhost/wuhbet/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wuhbet/ -O1 "C:\My Web Sites\estifanos" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:21:14	Error: 	"Not Found" (404) at link localhost/wuhbet/index.php/feed/ (from localhost/wuhbet/)
+08:21:20	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/js/script.js?ver=4.7.2 (from localhost/wuhbet/)
+08:21:20	Error: 	"Not Found" (404) at link localhost/wuhbet/index.php/wp-json/ (from localhost/wuhbet/)
+08:21:22	Error: 	"Method Not Allowed" (405) at link localhost/wuhbet/xmlrpc.php (from localhost/wuhbet/)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.eot (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.eot? (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.woff2 (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.woff (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.ttf (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/fonts/glyphicons-halflings-regular.svg (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:33	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/images/bg_header.jpg (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=4.7.2)
+08:21:34	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0 (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css?ver=4.7.2)
+08:21:34	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.eot? (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css?ver=4.7.2)
+08:21:34	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from localhost/wuhbet/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/font-awesome.css?ver=4.7.2)
+08:21:40	Warning: 	Moved Permanently for localhost/wuhbet/?p=12
+08:21:40	Warning: 	File has moved from localhost/wuhbet/?p=12 to http://localhost/wuhbet/index.php/about-me/
+08:21:42	Error: 	"Not Found" (404) at link localhost/wuhbet/index.php/about-me/Estifob@gmail.com (from localhost/wuhbet/index.php/about-me/)
+08:21:44	Warning: 	Moved Permanently for localhost/wuhbet/?p=14
+08:21:44	Warning: 	File has moved from localhost/wuhbet/?p=14 to http://localhost/wuhbet/index.php/contact-me/
+08:21:45	Warning: 	Moved Permanently for localhost/wuhbet/?p=16
+08:21:45	Warning: 	File has moved from localhost/wuhbet/?p=16 to http://localhost/wuhbet/index.php/my-experiences/
+08:21:46	Warning: 	Moved Permanently for localhost/wuhbet/?p=18
+08:21:46	Warning: 	File has moved from localhost/wuhbet/?p=18 to http://localhost/wuhbet/index.php/my-experiences/introduction-to-html5/
+08:21:51	Warning: 	Moved Permanently for localhost/wuhbet/?p=20
+08:21:51	Warning: 	File has moved from localhost/wuhbet/?p=20 to http://localhost/wuhbet/index.php/my-experiences/visual-designing/
+08:21:53	Warning: 	Moved Permanently for localhost/wuhbet/?p=22
+08:21:53	Warning: 	File has moved from localhost/wuhbet/?p=22 to http://localhost/wuhbet/index.php/my-experiences/leadership-development/
+08:21:55	Warning: 	Moved Permanently for localhost/wuhbet/?p=24
+08:21:55	Warning: 	File has moved from localhost/wuhbet/?p=24 to http://localhost/wuhbet/index.php/my-experiences/wordpress-web-desinging/
+08:21:58	Error: 	"Forbidden" (403) at link localhost/icons/blank.gif (from localhost/wuhbet/wp-content/themes/enfold/framework/)
+08:21:59	Error: 	"Forbidden" (403) at link localhost/icons/back.gif (from localhost/wuhbet/wp-content/themes/enfold/framework/)
+08:21:59	Error: 	"Forbidden" (403) at link localhost/icons/unknown.gif (from localhost/wuhbet/wp-content/themes/enfold/framework/)
+08:21:59	Error: 	"Forbidden" (403) at link localhost/icons/folder.gif (from localhost/wuhbet/wp-content/themes/enfold/framework/)
+08:22:14	Error: 	"Forbidden" (403) at link localhost/icons/text.gif (from localhost/wuhbet/wp-content/themes/enfold/framework/css/)
+08:22:31	Error: 	"Forbidden" (403) at link localhost/icons/image2.gif (from localhost/wuhbet/wp-content/themes/enfold/framework/images/colorpicker/)
+08:22:47	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/themes/enfold/framework/php/function.require-once (from localhost/wuhbet/wp-content/themes/enfold/framework/php/inc-avia-importer.php)
+08:22:47	Error: 	"Not Found" (404) at link localhost/wuhbet/wp-content/themes/enfold/framework/php/function.require (from localhost/wuhbet/wp-content/themes/enfold/framework/php/inc-avia-importer.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 2 seconds : 623 links scanned, 592 files written (7433121 bytes overall), 26 files updated [652131 bytes received at 5345 bytes/sec], 2.8 requests per connection
+(23 errors, 14 warnings, 0 messages)
